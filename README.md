@@ -4,4 +4,4 @@ Sumber referensi Dicoding kelas:
   - Belajar Dasar Pemrograman web.
   - Belajar membuat Front End Web untuk Pemula.
 
-Visit at https://hapidr.github.io/todo-apps/
+Visit at https://hpdrr.github.io/todo-apps/
